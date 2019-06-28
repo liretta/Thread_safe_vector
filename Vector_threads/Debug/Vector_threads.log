@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\apriorit\treads\vector_thread\vector_threads\vector_threads\source.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\apriorit\treads\vector_thread\vector_threads\vector_threads\threads_vector.hpp(96): warning C4018: '>=': signed/unsigned mismatch
+  d:\apriorit\treads\vector_thread\vector_threads\vector_threads\threads_vector.hpp(94): note: while compiling class template member function 'void thread_vector<int>::erase(const int)'
+  d:\apriorit\treads\vector_thread\vector_threads\vector_threads\source.cpp(15): note: see reference to function template instantiation 'void thread_vector<int>::erase(const int)' being compiled
+  d:\apriorit\treads\vector_thread\vector_threads\vector_threads\source.cpp(40): note: see reference to class template instantiation 'thread_vector<int>' being compiled
+  Vector_threads.vcxproj -> D:\Apriorit\Treads\Vector_thread\Vector_threads\Debug\Vector_threads.exe
